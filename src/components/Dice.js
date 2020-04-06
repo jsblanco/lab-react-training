@@ -22,7 +22,8 @@ export default class Dice extends Component {
   render() {
     return (
       <div>
-        <img
+      <h2>Magic dice!</h2>
+        <img style={{width: `300px`}}
           onClick={this.clickHandler}
           src={`/img/dice${this.state.image}.png`}
           alt=""
