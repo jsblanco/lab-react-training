@@ -1,0 +1,8 @@
+.numbers-box{
+    padding: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+.numbers-table{
+    margin: 20px;
+}
